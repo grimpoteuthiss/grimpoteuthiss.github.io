@@ -10,7 +10,7 @@
         "timeStamps": [
             "00:00 - Introduction",
             "01:22 - Transition Property",
-            "06:20 - Animation Property",
+            "06:20 - Animation Property"
         ]
     },
     {
@@ -31,8 +31,8 @@
             "11:09 - Different HTML",
             "12:20 - CSS Grid",
             "16:15 - Clamp",
-            "18:00 - Viewport Units",
-        ],
+            "18:00 - Viewport Units"
+        ]
     },
     {
         "isComplete": false,
@@ -61,8 +61,8 @@
         "timeStamps": [
             "00:00 - Introduction to CSS basics",
             "1:30 - Styling text and fonts with CSS",
-            "2:45 - Creating responsive layouts",
-        ],
+            "2:45 - Creating responsive layouts"
+        ]
     },
     {
         "isComplete": false,
@@ -74,8 +74,8 @@
         "timeStamps": [
             "00:00 - Introduction to CSS basics",
             "1:30 - Styling text and fonts with CSS",
-            "2:45 - Creating responsive layouts",
-        ],
+            "2:45 - Creating responsive layouts"
+        ]
     },
     {
         "isComplete": false,
@@ -87,7 +87,7 @@
         "timeStamps": [
             "00:00 - Introduction to CSS basics",
             "1:30 - Styling text and fonts with CSS",
-            "2:45 - Creating responsive layouts",
-        ],
-    },
+            "2:45 - Creating responsive layouts"
+        ]
+    }
 ]
