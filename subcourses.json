@@ -1,11 +1,11 @@
 [
     {
-        isComplete: true,
+        isComplete: "true",
         variant: "inactive",
 
-        id:1,
+        id:"1",
         title: "Introduction",
-        duration: 4,
+        duration: "4",
         videoUrl: "https://youtu.be/YszONjKpgg4?si=oDFEZR7yEMS0KFKD",
         timeStamps: [
             "00:00 - Introduction",
@@ -14,11 +14,11 @@
         ]
     },
     {
-        isComplete: false,
+        isComplete: "false",
         variant: "active",
-        id:2,
+        id:"2",
         title: "CSS Animation",
-        duration: 15,
+        duration: "15",
         videoUrl: "https://youtu.be/TUD1AWZVgQ8?si=sFvYQ_Uac9dLCXQn",
         timeStamps: [
             "00:00 - Introduction",
@@ -35,11 +35,11 @@
         ],
     },
     {
-        isComplete: false,
+        isComplete: "false",
         variant: "inactive",
-        id:3,
+        id:"3",
         title: "Responsive Navbar Tutorial",
-        duration: 13,
+        duration: "13",
         videoUrl: "https://youtu.be/At4B7A4GOPg?si=DLr6bHFWWZm06Q5l",
         timeStamps: [
             "00:00 - Introduction",
@@ -52,11 +52,11 @@
         ]
     },
     {
-        isComplete: false,
+        isComplete: "false",
         variant: "inactive",
-        id:4,
+        id:"4",
         title: "Simple CSS Trick",
-        duration: 5,
+        duration: "5",
         videoUrl: "https://youtu.be/jhl5afLEKdo?si=jhMF1C2qrvPbMPZn",
         timeStamps: [
             "00:00 - Introduction to CSS basics",
@@ -65,11 +65,11 @@
         ],
     },
     {
-        isComplete: false,
+        isComplete: "false",
         variant: "inactive",
-        id:5,
+        id:"5",
         title: "CSS Anchor",
-        duration: 5,
+        duration: "5",
         videoUrl: "https://youtu.be/jhl5afLEKdo?si=jhMF1C2qrvPbMPZn",
         timeStamps: [
             "00:00 - Introduction to CSS basics",
@@ -78,11 +78,11 @@
         ],
     },
     {
-        isComplete: false,
+        isComplete: "false",
         variant: "inactive",
-        id:6,
+        id:"6",
         title: "CSS Selector",
-        duration: 5,
+        duration: "5",
         videoUrl: "https://youtu.be/jhl5afLEKdo?si=jhMF1C2qrvPbMPZn",
         timeStamps: [
             "00:00 - Introduction to CSS basics",
