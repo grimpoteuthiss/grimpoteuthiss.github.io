@@ -4,14 +4,14 @@
         "imageUrl": "/images/heshi.jpg",
         "name": "Heshi",
         "job": "Front-End Developer",
-        "desc": "This bootcamp exceeded my expectations in teaching front-end development. The hands-on projects, especially the e-commerce website challenge, really cemented my understanding of React and responsive design. I appreciate how the curriculum kept up with industry trends. However, I wish we had more time on advanced state management techniques."
+        "desc": "This bootcamp exceeded my expectations in teaching front-end development. The hands-on projects, especially the e-commerce website challenge, really cemented my understanding of React and responsive design. I appreciate how the curriculum kept up with industry trends."
     },
     {
         "id": 1,
         "imageUrl": "/images/duck.jpg",
         "name": "Duckky",
         "job": "Back-End Developer",
-        "desc": "The back-end module was comprehensive and well-structured. I particularly enjoyed the database design sessions and the API development project. The instructors were knowledgeable and always available for support. One suggestion would be to include more content on microservices architecture, as it's becoming increasingly important in the industry."
+        "desc": "The back-end module was comprehensive and well-structured. I particularly enjoyed the database design sessions and the API development project. The instructors were knowledgeable and always available for support. One suggestion would be to include more content on microservices architecture."
     },
     {
         "id": 2,
